@@ -1,0 +1,113 @@
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\appsettings.json
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Product.Microservice.exe
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Product.Microservice.deps.json
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Product.Microservice.runtimeconfig.json
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Product.Microservice.runtimeconfig.dev.json
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Product.Microservice.dll
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\ref\Product.Microservice.dll
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Product.Microservice.pdb
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.csproj.AssemblyReference.cache
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.AssemblyInfoInputs.cache
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.AssemblyInfo.cs
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\scopedcss\bundle\Product.Microservice.styles.css
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\staticwebassets\Product.Microservice.StaticWebAssets.Manifest.cache
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.RazorTargetAssemblyInfo.cache
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.csproj.CopyComplete
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.dll
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\ref\Product.Microservice.dll
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.pdb
+C:\Users\Yavuz Selim KART\source\repos\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.genruntimeconfig.cache
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\appsettings.json
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Product.Microservice.exe
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Product.Microservice.deps.json
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Product.Microservice.runtimeconfig.json
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Product.Microservice.runtimeconfig.dev.json
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Product.Microservice.dll
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\ref\Product.Microservice.dll
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Product.Microservice.pdb
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.csproj.AssemblyReference.cache
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.AssemblyInfoInputs.cache
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.AssemblyInfo.cs
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.csproj.CoreCompileInputs.cache
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\staticwebassets\Product.Microservice.StaticWebAssets.Manifest.cache
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\staticwebassets\Product.Microservice.StaticWebAssets.xml
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\scopedcss\bundle\Product.Microservice.styles.css
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.RazorTargetAssemblyInfo.cache
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.csproj.CopyComplete
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.dll
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\ref\Product.Microservice.dll
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.pdb
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.genruntimeconfig.cache
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VeyselHaci\Desktop\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\appsettings.json
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Product.Microservice.exe
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Product.Microservice.deps.json
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Product.Microservice.runtimeconfig.json
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Product.Microservice.runtimeconfig.dev.json
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Product.Microservice.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\ref\Product.Microservice.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Product.Microservice.pdb
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.csproj.AssemblyReference.cache
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.AssemblyInfoInputs.cache
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.AssemblyInfo.cs
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.csproj.CoreCompileInputs.cache
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\staticwebassets\Product.Microservice.StaticWebAssets.Manifest.cache
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\staticwebassets\Product.Microservice.StaticWebAssets.xml
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\scopedcss\bundle\Product.Microservice.styles.css
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.RazorTargetAssemblyInfo.cache
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.csproj.CopyComplete
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\ref\Product.Microservice.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.pdb
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\obj\Debug\net5.0\Product.Microservice.genruntimeconfig.cache
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Namotion.Reflection.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\NJsonSchema.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\NJsonSchema.Yaml.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\NSwag.Annotations.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\NSwag.AspNetCore.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\NSwag.Core.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\NSwag.Core.Yaml.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\NSwag.Generation.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Microservices.WebApi\Product.Microservice\bin\Debug\net5.0\YamlDotNet.dll

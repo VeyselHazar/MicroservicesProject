@@ -1,0 +1,127 @@
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\appsettings.json
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\Gate.exe
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\Gate.deps.json
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\Gate.runtimeconfig.json
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\Gate.runtimeconfig.dev.json
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\Gate.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\ref\Gate.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\Gate.pdb
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\obj\Debug\net5.0\Gate.csproj.AssemblyReference.cache
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\obj\Debug\net5.0\Gate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\obj\Debug\net5.0\Gate.AssemblyInfoInputs.cache
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\obj\Debug\net5.0\Gate.AssemblyInfo.cs
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\obj\Debug\net5.0\Gate.csproj.CoreCompileInputs.cache
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\obj\Debug\net5.0\Gate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\obj\Debug\net5.0\scopedcss\bundle\Gate.styles.css
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\obj\Debug\net5.0\staticwebassets\Gate.StaticWebAssets.Manifest.cache
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\obj\Debug\net5.0\Gate.RazorTargetAssemblyInfo.cache
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\obj\Debug\net5.0\Gate.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\obj\Debug\net5.0\ref\Gate.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\obj\Debug\net5.0\Gate.pdb
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\obj\Debug\net5.0\Gate.genruntimeconfig.cache
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\configuration.development.json
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\configuration.production.development.json
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\Ocelot.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\obj\Debug\net5.0\Gate.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\obj\Debug\net5.0\Gate.csproj.CopyComplete
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\Gate\Gate\Gate\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\appsettings.json
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\configuration.production.development.json
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\configuration.development.json
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\Gate.exe
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\Gate.deps.json
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\Gate.runtimeconfig.json
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\Gate.runtimeconfig.dev.json
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\Gate.dll
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\ref\Gate.dll
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\Gate.pdb
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\Ocelot.dll
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\obj\Debug\net5.0\Gate.csproj.AssemblyReference.cache
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\obj\Debug\net5.0\Gate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\obj\Debug\net5.0\Gate.AssemblyInfoInputs.cache
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\obj\Debug\net5.0\Gate.AssemblyInfo.cs
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\obj\Debug\net5.0\Gate.csproj.CoreCompileInputs.cache
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\obj\Debug\net5.0\Gate.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\obj\Debug\net5.0\Gate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\obj\Debug\net5.0\staticwebassets\Gate.StaticWebAssets.Manifest.cache
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\obj\Debug\net5.0\staticwebassets\Gate.StaticWebAssets.xml
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\obj\Debug\net5.0\scopedcss\bundle\Gate.styles.css
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\obj\Debug\net5.0\Gate.RazorTargetAssemblyInfo.cache
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\obj\Debug\net5.0\Gate.csproj.CopyComplete
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\obj\Debug\net5.0\Gate.dll
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\obj\Debug\net5.0\ref\Gate.dll
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\obj\Debug\net5.0\Gate.pdb
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\obj\Debug\net5.0\Gate.genruntimeconfig.cache
+C:\Users\VeyselHaci\Desktop\Current\5 - Gate\Gate\Gate\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\appsettings.json
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\configuration.development.json
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\configuration.production.development.json
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\Gate.exe
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\Gate.deps.json
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\Gate.runtimeconfig.json
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\Gate.runtimeconfig.dev.json
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\Gate.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\ref\Gate.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\Gate.pdb
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\Ocelot.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\obj\Debug\net5.0\Gate.csproj.AssemblyReference.cache
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\obj\Debug\net5.0\Gate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\obj\Debug\net5.0\Gate.AssemblyInfoInputs.cache
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\obj\Debug\net5.0\Gate.AssemblyInfo.cs
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\obj\Debug\net5.0\Gate.csproj.CoreCompileInputs.cache
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\obj\Debug\net5.0\Gate.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\obj\Debug\net5.0\Gate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\obj\Debug\net5.0\staticwebassets\Gate.StaticWebAssets.Manifest.cache
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\obj\Debug\net5.0\staticwebassets\Gate.StaticWebAssets.xml
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\obj\Debug\net5.0\scopedcss\bundle\Gate.styles.css
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\obj\Debug\net5.0\Gate.RazorTargetAssemblyInfo.cache
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\obj\Debug\net5.0\Gate.csproj.CopyComplete
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\obj\Debug\net5.0\Gate.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\obj\Debug\net5.0\ref\Gate.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\obj\Debug\net5.0\Gate.pdb
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\Gate\Gate\obj\Debug\net5.0\Gate.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "E/Lns2VUcmigHZmbAq/Yx/yNMH5wkEoP/CEDdCH53g+QN5SAVEN3Wvo+wehpA9ERN9VuNKUttVLG/OLMOx0cWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VeyselHaci\\Desktop\\wetransfer_authserver3-rar_2022-05-27_1431\\Microservices.WebApi\\Customer.Microservice\\Customer.Microservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VeyselHaci\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\VeyselHaci\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\VeyselHaci\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\VeyselHaci\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\VeyselHaci\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\VeyselHaci\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

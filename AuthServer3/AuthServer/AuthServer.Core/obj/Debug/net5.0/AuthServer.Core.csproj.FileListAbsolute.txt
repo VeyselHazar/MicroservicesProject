@@ -1,0 +1,60 @@
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer\AuthServer.Core\bin\Debug\net5.0\AuthServer.Core.deps.json
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer\AuthServer.Core\bin\Debug\net5.0\AuthServer.Core.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer\AuthServer.Core\bin\Debug\net5.0\ref\AuthServer.Core.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer\AuthServer.Core\bin\Debug\net5.0\AuthServer.Core.pdb
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer\AuthServer.Core\bin\Debug\net5.0\Shared.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer\AuthServer.Core\bin\Debug\net5.0\Shared.pdb
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.csproj.AssemblyReference.cache
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.AssemblyInfoInputs.cache
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.AssemblyInfo.cs
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.csproj.CopyComplete
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer\AuthServer.Core\obj\Debug\net5.0\ref\AuthServer.Core.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.pdb
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer3\AuthServer\AuthServer.Core\bin\Debug\net5.0\AuthServer.Core.deps.json
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer3\AuthServer\AuthServer.Core\bin\Debug\net5.0\AuthServer.Core.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer3\AuthServer\AuthServer.Core\bin\Debug\net5.0\ref\AuthServer.Core.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer3\AuthServer\AuthServer.Core\bin\Debug\net5.0\AuthServer.Core.pdb
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.AssemblyInfoInputs.cache
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.AssemblyInfo.cs
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\ref\AuthServer.Core.dll
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.pdb
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer3\AuthServer\AuthServer.Core\bin\Debug\net5.0\AuthServer.Core.runtimeconfig.json
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer3\AuthServer\AuthServer.Core\bin\Debug\net5.0\AuthServer.Core.runtimeconfig.dev.json
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.genruntimeconfig.cache
+C:\Users\VeyselHaciHazar.VEYSELHACIHAZAR\Desktop\AuthApi\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.csproj.AssemblyReference.cache
+C:\Users\VeyselHaci\Desktop\Current\1 - AuthServer\AuthApi\AuthServer3\AuthServer\AuthServer.Core\bin\Debug\net5.0\AuthServer.Core.deps.json
+C:\Users\VeyselHaci\Desktop\Current\1 - AuthServer\AuthApi\AuthServer3\AuthServer\AuthServer.Core\bin\Debug\net5.0\AuthServer.Core.runtimeconfig.json
+C:\Users\VeyselHaci\Desktop\Current\1 - AuthServer\AuthApi\AuthServer3\AuthServer\AuthServer.Core\bin\Debug\net5.0\AuthServer.Core.runtimeconfig.dev.json
+C:\Users\VeyselHaci\Desktop\Current\1 - AuthServer\AuthApi\AuthServer3\AuthServer\AuthServer.Core\bin\Debug\net5.0\AuthServer.Core.dll
+C:\Users\VeyselHaci\Desktop\Current\1 - AuthServer\AuthApi\AuthServer3\AuthServer\AuthServer.Core\bin\Debug\net5.0\ref\AuthServer.Core.dll
+C:\Users\VeyselHaci\Desktop\Current\1 - AuthServer\AuthApi\AuthServer3\AuthServer\AuthServer.Core\bin\Debug\net5.0\AuthServer.Core.pdb
+C:\Users\VeyselHaci\Desktop\Current\1 - AuthServer\AuthApi\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VeyselHaci\Desktop\Current\1 - AuthServer\AuthApi\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.AssemblyInfoInputs.cache
+C:\Users\VeyselHaci\Desktop\Current\1 - AuthServer\AuthApi\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.AssemblyInfo.cs
+C:\Users\VeyselHaci\Desktop\Current\1 - AuthServer\AuthApi\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\VeyselHaci\Desktop\Current\1 - AuthServer\AuthApi\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.dll
+C:\Users\VeyselHaci\Desktop\Current\1 - AuthServer\AuthApi\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\ref\AuthServer.Core.dll
+C:\Users\VeyselHaci\Desktop\Current\1 - AuthServer\AuthApi\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.pdb
+C:\Users\VeyselHaci\Desktop\Current\1 - AuthServer\AuthApi\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.genruntimeconfig.cache
+C:\Users\VeyselHaci\Desktop\Current\1 - AuthServer\AuthApi\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.csproj.AssemblyReference.cache
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\AuthServer3\AuthServer\AuthServer.Core\bin\Debug\net5.0\AuthServer.Core.deps.json
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\AuthServer3\AuthServer\AuthServer.Core\bin\Debug\net5.0\AuthServer.Core.runtimeconfig.json
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\AuthServer3\AuthServer\AuthServer.Core\bin\Debug\net5.0\AuthServer.Core.runtimeconfig.dev.json
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\AuthServer3\AuthServer\AuthServer.Core\bin\Debug\net5.0\AuthServer.Core.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\AuthServer3\AuthServer\AuthServer.Core\bin\Debug\net5.0\ref\AuthServer.Core.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\AuthServer3\AuthServer\AuthServer.Core\bin\Debug\net5.0\AuthServer.Core.pdb
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.csproj.AssemblyReference.cache
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.AssemblyInfoInputs.cache
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.AssemblyInfo.cs
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\ref\AuthServer.Core.dll
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.pdb
+C:\Users\VeyselHaci\Desktop\wetransfer_authserver3-rar_2022-05-27_1431\AuthServer3\AuthServer\AuthServer.Core\obj\Debug\net5.0\AuthServer.Core.genruntimeconfig.cache
